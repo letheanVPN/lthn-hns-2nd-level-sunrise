@@ -1,6 +1,6 @@
 # lthn-hns-2nd-level-sunrise
 
-Name reservations for `.lthn` &amp; `.lt.hn` Unified DNS Powered Naming;
+Name reservations for `.lthn` &amp; `.lt.hn` Unified DNS Powered Naming; HNS 2nd level Private key's to be distributed on release.
 
 While we make the systems for this, we are using Mee6 Mebership features, with Stripe. 1 months = one name, cancel after purchase.
 
