@@ -12,3 +12,4 @@
 - `Alias: gitlab.lthn`
 - `Alias: docker.lthn`
 - `Alias: kasmweb.lthn` | `Alias: kasm.lthn`
+- `Alias: love.lthn` | `g****.lthn`
